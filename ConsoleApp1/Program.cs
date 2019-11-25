@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("你好啊");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("你好啊");
+            Console.ReadLine();
+        }      
+    }
+}
