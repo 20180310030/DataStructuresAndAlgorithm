@@ -4,3 +4,6 @@ D:\下载\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.ex
 D:\下载\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.pdb
 D:\下载\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.exe
 D:\下载\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.pdb
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\平均年龄、人数姓氏\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe.config
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\平均年龄、人数姓氏\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.exe
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\平均年龄、人数姓氏\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.pdb
