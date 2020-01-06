@@ -4,3 +4,6 @@ C:\Users\养老，它不香吗？\Desktop\ConsoleApplication1\ConsoleApplication
 C:\Users\养老，它不香吗？\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\养老，它不香吗？\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\养老，它不香吗？\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\扑克牌\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\扑克牌\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Source\Repos\DataStructuresAndAlgorithm\扑克牌\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
